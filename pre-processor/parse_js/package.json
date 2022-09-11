@@ -1,0 +1,19 @@
+{
+  "name": "parse_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse_js_file.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/acorn": "^6.0.0",
+    "acorn": "^8.8.0",
+    "typescript-parser": "^2.6.1"
+  }
+}

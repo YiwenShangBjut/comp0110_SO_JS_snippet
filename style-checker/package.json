@@ -1,0 +1,26 @@
+{
+  "name": "lint",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0",
+    "eslint": "^8.9.0",
+    "eslint-config-react-app": "^7.0.0",
+    "eslint-config-standard": "^17.0.0-1",
+    "eslint-plugin-num-statements": "file:eslint-plugin-num-statements",
+    "package.json": "^2.0.1",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "eslint-config-jquery": "^3.0.0",
+    "eslint-plugin-jquery": "^1.5.1",
+    "eslint-stats": "^1.0.1"
+  },
+  "description": ""
+}
